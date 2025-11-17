@@ -1,0 +1,6 @@
+c++ principal//main.cpp -o bin/programa -I include bin/punteros -I Cout *pNumero 25 valor apuntado pNumero 0x7 dirreccion puntero
+&pNumero 0x0 direccion del puntero c++ src/ejemplo.cpp -o bin/ejemplo -l ftxui-screem bin/ejemplo -I c++ Src//ejemplo.cpp -o bin/ejemplo -I include -lftxui c++ Src/ejemplo.cpp -o bin/ejemplo -std=c++17
+-I include
+-I /workspaces/3E252/ftxui/include
+-L /workspaces/3E252/ftxui/build/src
+-lftxui-component -lftxui-dom -lftxui-screen
